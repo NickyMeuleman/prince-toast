@@ -6,7 +6,7 @@ const Index = (props) => {
   return (
     <Fragment>
       <div>
-        <h2 className="mb-6 font-bold text-gray-900 text-3xl">Welcome to my side of the Internet!</h2>
+        <h2 className="mb-6 font-bold text-gray-900 text-3xl">TEST Welcome to my side of the Internet!</h2>
         <p className="text-lg">I am a full-stack web developer based in NYC. I love building things and making sure to bring people together around accessibility and security. Beyond the work I do, I love corgis.</p>
       </div>
 
